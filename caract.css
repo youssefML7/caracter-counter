@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(255, 133, 154);
+}
+
+
+.container{
+    background-color: pink;
+    padding: 20px;
+    padding-right: 50px;
+    padding-left: 60px;
+    border-radius: 10px;
+    width: 400px;
+    margin-left: 350px;
+    margin-top: 20%;
+}
+.text{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: sans-serif ; 
+    margin-bottom: 10px;
+}
+
+.input{
+    margin-bottom: 0;
+    resize: none;
+    width: 350px;
+    height: 60px;
+}
+
+.second_part{
+    display: flex;
+    justify-content: space-between;
+    width: 370px;
+}
+
+
+.total_caracter{
+    color: rgb(32, 112, 218);
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.total_romaining{
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+}
